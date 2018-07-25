@@ -1,0 +1,16 @@
+E:\Doocuments\Article\CoreMVC\CoreMVC\UtilityLayer\bin\Debug\UtilityLayer.dll
+E:\Doocuments\Article\CoreMVC\CoreMVC\UtilityLayer\bin\Debug\UtilityLayer.pdb
+E:\Doocuments\Article\CoreMVC\CoreMVC\UtilityLayer\obj\Debug\UtilityLayer.csprojResolveAssemblyReference.cache
+E:\Doocuments\Article\CoreMVC\CoreMVC\UtilityLayer\obj\Debug\UtilityLayer.dll
+E:\Doocuments\Article\CoreMVC\CoreMVC\UtilityLayer\obj\Debug\UtilityLayer.pdb
+E:\Doocuments\Article\CoreMVC\ASP.NetCoreMVC6\UtilityLayer\bin\Debug\UtilityLayer.dll
+E:\Doocuments\Article\CoreMVC\ASP.NetCoreMVC6\UtilityLayer\bin\Debug\UtilityLayer.pdb
+E:\Doocuments\Article\CoreMVC\ASP.NetCoreMVC6\UtilityLayer\obj\Debug\UtilityLayer.csprojResolveAssemblyReference.cache
+E:\Doocuments\Article\CoreMVC\ASP.NetCoreMVC6\UtilityLayer\obj\Debug\UtilityLayer.dll
+E:\Doocuments\Article\CoreMVC\ASP.NetCoreMVC6\UtilityLayer\obj\Debug\UtilityLayer.pdb
+C:\github\ASP.NetCoreMVC6\ASP.NetCoreMVC6\UtilityLayer\bin\Debug\UtilityLayer.dll
+C:\github\ASP.NetCoreMVC6\ASP.NetCoreMVC6\UtilityLayer\bin\Debug\UtilityLayer.pdb
+C:\github\ASP.NetCoreMVC6\ASP.NetCoreMVC6\UtilityLayer\obj\Debug\UtilityLayer.csprojAssemblyReference.cache
+C:\github\ASP.NetCoreMVC6\ASP.NetCoreMVC6\UtilityLayer\obj\Debug\UtilityLayer.csproj.CoreCompileInputs.cache
+C:\github\ASP.NetCoreMVC6\ASP.NetCoreMVC6\UtilityLayer\obj\Debug\UtilityLayer.dll
+C:\github\ASP.NetCoreMVC6\ASP.NetCoreMVC6\UtilityLayer\obj\Debug\UtilityLayer.pdb

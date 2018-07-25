@@ -1,0 +1,16 @@
+C:\github\ASP.NetCoreMVC6\ASP.NetCoreMVC6\src\BusinessLayer\bin\Debug\net461\BusinessLayer.dll
+C:\github\ASP.NetCoreMVC6\ASP.NetCoreMVC6\src\BusinessLayer\bin\Debug\net461\BusinessLayer.pdb
+C:\github\ASP.NetCoreMVC6\ASP.NetCoreMVC6\src\BusinessLayer\obj\Debug\net461\BusinessLayer.csprojAssemblyReference.cache
+C:\github\ASP.NetCoreMVC6\ASP.NetCoreMVC6\src\BusinessLayer\obj\Debug\net461\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\github\ASP.NetCoreMVC6\ASP.NetCoreMVC6\src\BusinessLayer\obj\Debug\net461\BusinessLayer.AssemblyInfoInputs.cache
+C:\github\ASP.NetCoreMVC6\ASP.NetCoreMVC6\src\BusinessLayer\obj\Debug\net461\BusinessLayer.AssemblyInfo.cs
+C:\github\ASP.NetCoreMVC6\ASP.NetCoreMVC6\src\BusinessLayer\obj\Debug\net461\BusinessLayer.dll
+C:\github\ASP.NetCoreMVC6\ASP.NetCoreMVC6\src\BusinessLayer\obj\Debug\net461\BusinessLayer.pdb
+C:\Users\zkaya\Source\Repos\Core2Mvc\src\BusinessLayer\bin\Debug\net461\BusinessLayer.dll
+C:\Users\zkaya\Source\Repos\Core2Mvc\src\BusinessLayer\bin\Debug\net461\BusinessLayer.pdb
+C:\Users\zkaya\Source\Repos\Core2Mvc\src\BusinessLayer\obj\Debug\net461\BusinessLayer.csprojAssemblyReference.cache
+C:\Users\zkaya\Source\Repos\Core2Mvc\src\BusinessLayer\obj\Debug\net461\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\zkaya\Source\Repos\Core2Mvc\src\BusinessLayer\obj\Debug\net461\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\zkaya\Source\Repos\Core2Mvc\src\BusinessLayer\obj\Debug\net461\BusinessLayer.AssemblyInfo.cs
+C:\Users\zkaya\Source\Repos\Core2Mvc\src\BusinessLayer\obj\Debug\net461\BusinessLayer.dll
+C:\Users\zkaya\Source\Repos\Core2Mvc\src\BusinessLayer\obj\Debug\net461\BusinessLayer.pdb

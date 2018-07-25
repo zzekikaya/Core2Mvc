@@ -1,0 +1,14 @@
+E:\Doocuments\Article\CoreMVC\CoreMVC\DataLayer\bin\Debug\DataLayer.dll
+E:\Doocuments\Article\CoreMVC\CoreMVC\DataLayer\bin\Debug\DataLayer.pdb
+E:\Doocuments\Article\CoreMVC\CoreMVC\DataLayer\obj\Debug\DataLayer.dll
+E:\Doocuments\Article\CoreMVC\CoreMVC\DataLayer\obj\Debug\DataLayer.pdb
+E:\Doocuments\Article\CoreMVC\ASP.NetCoreMVC6\DataLayer\bin\Debug\DataLayer.dll
+E:\Doocuments\Article\CoreMVC\ASP.NetCoreMVC6\DataLayer\bin\Debug\DataLayer.pdb
+E:\Doocuments\Article\CoreMVC\ASP.NetCoreMVC6\DataLayer\obj\Debug\DataLayer.dll
+E:\Doocuments\Article\CoreMVC\ASP.NetCoreMVC6\DataLayer\obj\Debug\DataLayer.pdb
+C:\github\ASP.NetCoreMVC6\ASP.NetCoreMVC6\DataLayer\bin\Debug\DataLayer.dll
+C:\github\ASP.NetCoreMVC6\ASP.NetCoreMVC6\DataLayer\bin\Debug\DataLayer.pdb
+C:\github\ASP.NetCoreMVC6\ASP.NetCoreMVC6\DataLayer\obj\Debug\DataLayer.csprojAssemblyReference.cache
+C:\github\ASP.NetCoreMVC6\ASP.NetCoreMVC6\DataLayer\obj\Debug\DataLayer.csproj.CoreCompileInputs.cache
+C:\github\ASP.NetCoreMVC6\ASP.NetCoreMVC6\DataLayer\obj\Debug\DataLayer.dll
+C:\github\ASP.NetCoreMVC6\ASP.NetCoreMVC6\DataLayer\obj\Debug\DataLayer.pdb
